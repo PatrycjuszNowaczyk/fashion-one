@@ -110,6 +110,7 @@ img {
 
 .hero__text {
     align-self: flex-start;
+    background: linear-gradient( 90deg, #f8f9fb33, #f2f4f5);
 }
 
 .hero__circle {
