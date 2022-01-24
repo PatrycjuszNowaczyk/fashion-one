@@ -15,6 +15,7 @@
     --black: #111;
     --white: #fff;
     --light-grey: #e5e5e5;
+    --grey: #333333;
     --orange: #f96402;
 }
 
@@ -47,7 +48,7 @@ h6 {
 }
 
 h1 {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
 }
 
 p {
@@ -61,7 +62,7 @@ img {
 
 @media(min-width: 1921px) {
      :root {
-        font-size: 150%;
+        font-size: 120%;
     }
 }
 
