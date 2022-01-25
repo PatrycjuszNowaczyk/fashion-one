@@ -193,6 +193,9 @@ img {
     flex-wrap: wrap;
     padding: 10rem 2rem;
     background: var(--light-grey);
+    @media(max-width: 767px) {
+        padding: 2rem;
+    }
 }
 
 .textAndCircle__circleAndSocials {
