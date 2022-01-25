@@ -6,6 +6,7 @@ module.exports = {
     entry: {
         'js/scripts': './src/js/app.js',
     },
+    watch: true,
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: '[name].js',
