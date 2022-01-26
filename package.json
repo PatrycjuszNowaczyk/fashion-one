@@ -14,6 +14,7 @@
         "@babel/preset-env": "^7.16.11",
         "babel-loader": "^8.2.3",
         "css-loader": "^6.5.1",
+        "@fortawesome/fontawesome-free": "^5.15.4",
         "ignore-loader": "^0.1.2",
         "mini-css-extract-plugin": "^2.5.2",
         "node-sass": "^7.0.1",
